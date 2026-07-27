@@ -12,6 +12,9 @@
     <img src="https://img.shields.io/badge/chain-Robinhood%20Chain-c6f000" alt="Robinhood Chain"/>
     <img src="https://img.shields.io/badge/license-MIT-black" alt="MIT"/>
   </p>
+
+  <b>$WRTH Token CA</b><br/>
+  <code>0x24044f61cf99cc9cd2929d4a8fc687d5496191ac</code>
 </div>
 
 ---
